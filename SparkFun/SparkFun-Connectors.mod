@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1   04/07/2016-12:34:27
+PCBNEW-LibModule-V1   22/06/2016-20:02:07
 $INDEX
 SparkFun-Connectors-1X01
 SparkFun-Connectors-1X01NS
